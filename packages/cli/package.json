@@ -1,6 +1,6 @@
 {
   "name": "@mo-demo/cli",
-  "version": "0.0.4-alpha.0",
+  "version": "0.0.5-alpha.0",
   "description": "> TODO: description",
   "author": "林宇森 <linyusen@dslyy.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "node ./__tests__/@mo-demo/cli.test.js"
   },
   "dependencies": {
-    "@mo-demo/cli-shared-utils": "^0.0.4-alpha.0",
+    "@mo-demo/cli-shared-utils": "^0.0.5-alpha.0",
     "chalk": "^5.2.0"
   },
   "gitHead": "3e1d2fd65db3ccf0afc90cc93278f1ade790b1d4"

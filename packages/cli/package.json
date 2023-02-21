@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "node ./__tests__/@mo-demo/cli.test.js"
@@ -23,5 +23,5 @@
     "@mo-demo/cli-shared-utils": "^0.0.4-alpha.0",
     "chalk": "^5.2.0"
   },
-  "gitHead": "e0d877de2aa866c0bb910d61e8a2fe7228766043"
+  "gitHead": "3e1d2fd65db3ccf0afc90cc93278f1ade790b1d4"
 }
